@@ -1,7 +1,0 @@
-pane	0	1	:src	1	:*	1	:/home/agalan	1	bash	:
-pane	1	1	:devops	0	:-	1	:/home/agalan	1	bash	:
-pane	1	2	:src	1	:*	1	:/home/agalan	1	bash	:
-window	0	1	1	:*	cd1e,53x59,0,0,1
-window	1	1	0	:-	cd24,53x59,0,0,7
-window	1	2	1	:*	cd25,53x59,0,0,8
-state	1	
